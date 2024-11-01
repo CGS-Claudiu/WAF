@@ -1,2 +1,2 @@
 # WAF
-Wellness Architecture Framework
+Wellness Architecture Framework - Web site
